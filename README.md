@@ -11,8 +11,6 @@
 - Code 201
 - Code 301
 
-> Students with previous relevant or equivalent experience can test out of this requirement in their application.
-
 ## Course Description
 
 Learn to write clean, well-tested, advanced JavaScript code using industry-standard software engineering patterns using NodeJS, Express, Postgres, and React.
